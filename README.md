@@ -1,4 +1,4 @@
-# FoodHub Order Analysis
+# NYGourmet Order Analysis
 
 ## Project Overview
 
@@ -6,11 +6,11 @@ We conduct an in-depth analysis of orders from a food aggregator company, aiming
 
 ## Context
 
-The food aggregator company, NYGourmet, operates in New York City, where the number of restaurants is increasing rapidly. With a focus on providing convenience to busy students and professionals, NYGourmet offers access to multiple restaurants through a single smartphone app. The app facilitates online food ordering, assigns delivery personnel, and ensures seamless delivery to customers' locations. The company aims to enhance customer experience by analyzing order data to understand demand patterns and optimize its services accordingly.
+The food aggregator company, NYGourmet, operates in New York City, where the number of restaurants is increasing rapidly. With a focus on providing convenience to students and professionals with busy lifestyles, NYGourmet offers access to multiple restaurants through a single smartphone app. The app facilitates online food ordering, assigns delivery personnel, and ensures seamless delivery to customers' locations. The company aims to enhance customer experience by analyzing order data to understand demand patterns and optimize its services accordingly.
 
 ## Objective
 
-As a Data Scientist at NYGourmet, our objective is to analyze the order data to gain insights that will help improve business operations and customer satisfaction. By answering key questions posed by the Data Science team, we aim to identify trends, patterns, and opportunities for optimization within the food delivery ecosystem.
+As a Data Science team at NYGourmet, our objective is to analyze the order data to gain insights that will help improve business operations and customer satisfaction. By answering key questions posed by the Data Science team, we aim to identify trends, patterns, and opportunities for optimization within the food delivery ecosystem.
 
 ## Data Description
 
