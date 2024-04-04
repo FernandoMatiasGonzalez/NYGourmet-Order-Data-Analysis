@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-In this project, we conduct an in-depth analysis of orders from a food aggregator company, aiming to transform raw data into actionable insights. By leveraging proficiency in exploratory data analysis, feature engineering, and data visualization using various data science libraries, we deliver key insights for enhancing delivery optimization, cuisine expansion, identifying market niches, and providing tailored analytics and advanced recommendations.
+We conduct an in-depth analysis of orders from a food aggregator company, aiming to transform raw data into actionable insights. By leveraging proficiency in exploratory data analysis, feature engineering, and data visualization using various data science libraries, we deliver key insights for enhancing delivery optimization, cuisine expansion, identifying market niches, and providing tailored analytics and advanced recommendations.
 
 ## Context
 
