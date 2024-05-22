@@ -2,11 +2,11 @@
 
 ## Project Overview
 
-We conduct an in-depth analysis of orders from a food aggregator company, aiming to transform raw data into actionable insights. By leveraging exploratory data analysis, feature engineering, and data visualization using various data science libraries, we deliver key insights for enhancing delivery optimization, cuisine expansion, identifying market niches, and providing tailored analytics and advanced recommendations.
+This repository presents an in-depth analysis of orders from a leading food aggregator in New York City. By leveraging exploratory data analysis, feature engineering, and data visualization using various data science libraries, we deliver key insights for enhancing delivery optimization, identifying market niches, and providing tailored analytics and advanced recommendations.
 
 ## Context
 
-The food aggregator company, NYGourmet, operates in New York City, where the number of restaurants is increasing rapidly. With a focus on providing convenience to students and professionals with busy lifestyles, NYGourmet offers access to multiple restaurants through a single smartphone app. The app facilitates online food ordering, assigns delivery personnel, and ensures seamless delivery to customers' locations. The company aims to enhance customer experience by analyzing order data to understand demand patterns and optimize its services accordingly.
+NYGourmet, a food aggregator company, operates in New York City, where the number of restaurants is increasing rapidly. With a focus on providing convenience to students and professionals with busy lifestyles, NYGourmet offers access to multiple restaurants through a single smartphone app. The app facilitates online food ordering, assigns delivery personnel, and ensures seamless delivery to customers' locations. The company aims to enhance customer experience by analyzing order data to understand demand patterns and optimize its services accordingly.
 
 ## Objective
 
