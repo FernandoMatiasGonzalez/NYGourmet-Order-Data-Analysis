@@ -1,4 +1,4 @@
-# NYGourmet Project: Order Data Analysis
+# NYGourmet Order Data Analysis
 
 ## Project Overview
 
